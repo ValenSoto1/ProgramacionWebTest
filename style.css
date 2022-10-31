@@ -12,3 +12,15 @@ aside{
     clear: both;
 }
 
+section{
+    float: left;
+    width: 70%;
+}
+
+nav ul{
+    padding: 4%;
+}
+
+nav ul li{
+    display: inline;
+}
