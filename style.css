@@ -6,3 +6,9 @@ ul li{
     color: #00f;
 }
 
+aside{
+    float: left;
+    width: 30%;
+    clear: both;
+}
+
